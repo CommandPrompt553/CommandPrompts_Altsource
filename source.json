@@ -14,6 +14,7 @@
       "localizedDescription": "An on device Jit enabler for non-jailbroken devices",
       "iconURL": "https://commandprompt553.github.io/CommandPrompts_Altsource/Stikdebug-icon.PNG"
     },
+    {
     "name": "Nugget",
       "bundleIdentifier": "com.leemin.nugget",
       "developerName": "leminlimez",
@@ -22,5 +23,6 @@
       "downloadURL": "https://commandprompt553.github.io/CommandPrompts_Altsource/Nugget.ipa",
       "localizedDescription": "An on device Tweak manager for non-jailbroken devices",
       "iconURL": "https://commandprompt553.github.io/CommandPrompts_Altsource/Nugget-icon.PNG"
+    }
   ]
 }
