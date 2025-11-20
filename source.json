@@ -6,9 +6,9 @@
   "apps": [
     {
       "name": "StikDebug",
-      "bundleIdentifier": "com.bundleidentifier.der.app",
+      "bundleIdentifier": "com.stik.sj",
       "developerName": "Dein Name/Entwickler",
-      "version": "1.0.0",
+      "version": "2.3.5",
       "versionDate": "2025-11-19",
       "downloadURL": "https://commandprompt553.github.io/CommandPrompts_Altsource/StikDebug.ipa",
       "localizedDescription": "An on device Jit enabler for non-jailbroken devices",
