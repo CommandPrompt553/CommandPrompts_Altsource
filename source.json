@@ -2,7 +2,7 @@
   "name": "CommandPrompts_Source",
   "identifier": "com.commandprompt.altstore.repo",
   "sourceURL": "https://commandprompt553.github.io/CommandPrompts_Altsource/source.json",
-  "iconURL": "https://commandprompt553.github.io/CommandPrompts_Altsource/Source-icon.PNG",
+  "iconURL": "https://commandprompt553.github.io/CommandPrompts_Altsource/Source-icon.png",
   "apps": [
     {
       "name": "StikDebug",
