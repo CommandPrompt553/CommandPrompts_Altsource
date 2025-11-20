@@ -26,6 +26,16 @@
     },
     {
       "name": "Geode-SDK",
+      "bundleIdentifier": "com.litchie.idosgames",
+      "developerName": "nturley3",
+      "version": "2.1",
+      "versionDate": "2025-11-19",
+      "downloadURL": "https://commandprompt553.github.io/CommandPrompts_Altsource/Idos.ipa",
+      "localizedDescription": "An Dos emulator",
+      "iconURL": "https://commandprompt553.github.io/CommandPrompts_Altsource/Idos-icon.PNG"
+    },
+    {
+      "name": "Geode-SDK",
       "bundleIdentifier": "com.geode.launcher",
       "developerName": "Geode Team",
       "version": "1.4.2",
