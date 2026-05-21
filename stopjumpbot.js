@@ -1,0 +1,2 @@
+clearInterval(botInterval);
+bot = null;
